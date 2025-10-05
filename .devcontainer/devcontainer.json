@@ -5,7 +5,8 @@
 				"GitHub.copilot",
 	      			"ms-python.python",
 	      			"ms-toolsai.jupyter",
-				"GrapeCity.gc-excelviewer"
+				"GrapeCity.gc-excelviewer",
+				"ms-toolsai.datawrangler"
 			]
 		}
 	}
